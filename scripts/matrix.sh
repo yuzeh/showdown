@@ -11,7 +11,7 @@ case "$j" in
 esac
 
 export WEBSOCKET_URI=homebase.yuzeh.com:8000
-export PS_USERNAME=abut-shipful-$i
+export PS_USERNAME=abut-shipful-$j
 export BOT_MODE=SEARCH_LADDER
 export POKEMON_MODE=gen7ouc${i}v${j}
 export TEAM_NAME=$loadout
