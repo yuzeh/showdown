@@ -9,7 +9,8 @@ def json_to_packed(json_team):
             j.get('nature', ''),
             ','.join(str(x) for x in j['evs'].values()),
             j.get('gender', ''),
-            ','.join(str(x) for x in j.get('ivs', {}).values()),
+            ','.join(str(j.get('ivs', {}).get(x, ''))
+                     for x in ['hp', 'atk', 'def', 'spa', 'spd', 'spe']),
             j.get('shiny', ''),
             j.get('level', ''),
             j.get('happiness', ''),
