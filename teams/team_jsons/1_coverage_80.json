@@ -1,6 +1,6 @@
 [
     {
-        "level": 80,
+        "level": 81,
         "name": "Mimikyu",
         "species": "Mimikyu",
         "item": "lifeorb",
@@ -22,7 +22,7 @@
         }
     },
     {
-        "level": 80,
+        "level": 81,
         "name": "Medicham-Mega",
         "species": "Medicham-Mega",
         "item": "medichamite",
@@ -44,7 +44,7 @@
         }
     },
     {
-        "level": 80,
+        "level": 81,
         "name": "Garchomp",
         "species": "Garchomp",
         "item": "leftovers",
@@ -66,7 +66,7 @@
         }
     },
     {
-        "level": 80,
+        "level": 81,
         "name": "Volcarona",
         "species": "Volcarona",
         "item": "buginiumz",
@@ -88,7 +88,7 @@
         }
     },
     {
-        "level": 80,
+        "level": 81,
         "name": "Toxapex",
         "species": "Toxapex",
         "item": "leftovers",
@@ -110,7 +110,7 @@
         }
     },
     {
-        "level": 80,
+        "level": 81,
         "name": "Magnezone",
         "species": "Magnezone",
         "item": "airballoon",

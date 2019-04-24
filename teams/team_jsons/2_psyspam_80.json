@@ -1,6 +1,6 @@
 [
     {
-        "level": 80,
+        "level": 81,
         "name": "Alakazam-Mega",
         "species": "Alakazam-Mega",
         "item": "alakazite",
@@ -30,7 +30,7 @@
         }
     },
     {
-        "level": 80,
+        "level": 81,
         "name": "Tapu Lele",
         "species": "Tapu Lele",
         "item": "psychiumz",
@@ -60,7 +60,7 @@
         }
     },
     {
-        "level": 80,
+        "level": 81,
         "name": "Kartana",
         "species": "Kartana",
         "item": "choicescarf",
@@ -82,7 +82,7 @@
         }
     },
     {
-        "level": 80,
+        "level": 81,
         "name": "Greninja-Ash",
         "species": "Greninja-Ash",
         "item": "choicespecs",
@@ -104,7 +104,7 @@
         }
     },
     {
-        "level": 80,
+        "level": 81,
         "name": "Landorus-Therian",
         "species": "Landorus-Therian",
         "item": "rockyhelmet",
@@ -134,7 +134,7 @@
         }
     },
     {
-        "level": 80,
+        "level": 81,
         "name": "Magearna",
         "species": "Magearna",
         "item": "assaultvest",

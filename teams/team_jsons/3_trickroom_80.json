@@ -1,6 +1,6 @@
 [
     {
-        "level": 80,
+        "level": 81,
         "name": "Marowak-Alola",
         "species": "Marowak-Alola",
         "item": "thickclub",
@@ -30,7 +30,7 @@
         }
     },
     {
-        "level": 80,
+        "level": 81,
         "name": "Cresselia",
         "species": "Cresselia",
         "item": "mentalherb",
@@ -60,7 +60,7 @@
         }
     },
     {
-        "level": 80,
+        "level": 81,
         "name": "Mawile",
         "species": "Mawile",
         "item": "mawilite",
@@ -90,7 +90,7 @@
         }
     },
     {
-        "level": 80,
+        "level": 81,
         "name": "Uxie",
         "species": "Uxie",
         "item": "mentalherb",
@@ -120,7 +120,7 @@
         }
     },
     {
-        "level": 80,
+        "level": 81,
         "name": "Crawdaunt",
         "species": "Crawdaunt",
         "item": "lifeorb",
@@ -150,7 +150,7 @@
         }
     },
     {
-        "level": 80,
+        "level": 81,
         "name": "Magearna",
         "species": "Magearna",
         "item": "fairiumz",
