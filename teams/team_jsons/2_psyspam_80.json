@@ -1,0 +1,166 @@
+[
+    {
+        "level": 80,
+        "name": "Alakazam-Mega",
+        "species": "Alakazam-Mega",
+        "item": "alakazite",
+        "ability": "magicguard",
+        "moves": [
+            "psychic",
+            "focusblast",
+            "shadowball",
+            "hiddenpowerfire"
+        ],
+        "nature": "Timid",
+        "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 4,
+            "spe": 252
+        },
+        "ivs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+        }
+    },
+    {
+        "level": 80,
+        "name": "Tapu Lele",
+        "species": "Tapu Lele",
+        "item": "psychiumz",
+        "ability": "Psychic Surge",
+        "moves": [
+            "calmmind",
+            "psyshock",
+            "moonblast",
+            "hiddenpowerfire"
+        ],
+        "nature": "Timid",
+        "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 4,
+            "spe": 252
+        },
+        "ivs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+        }
+    },
+    {
+        "level": 80,
+        "name": "Kartana",
+        "species": "Kartana",
+        "item": "choicescarf",
+        "ability": "Beast Boost",
+        "moves": [
+            "leafblade",
+            "knockoff",
+            "sacredsword",
+            "defog"
+        ],
+        "nature": "Jolly",
+        "evs": {
+            "hp": 0,
+            "atk": 252,
+            "def": 4,
+            "spa": 0,
+            "spd": 0,
+            "spe": 252
+        }
+    },
+    {
+        "level": 80,
+        "name": "Greninja-Ash",
+        "species": "Greninja-Ash",
+        "item": "choicespecs",
+        "ability": "Battle Bond",
+        "moves": [
+            "spikes",
+            "watershuriken",
+            "hydropump",
+            "darkpulse"
+        ],
+        "nature": "Timid",
+        "evs": {
+            "hp": 0,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 4,
+            "spe": 252
+        }
+    },
+    {
+        "level": 80,
+        "name": "Landorus-Therian",
+        "species": "Landorus-Therian",
+        "item": "rockyhelmet",
+        "ability": "Intimidate",
+        "moves": [
+            "stealthrock",
+            "earthquake",
+            "hiddenpowerice",
+            "uturn"
+        ],
+        "nature": "Impish",
+        "evs": {
+            "hp": 248,
+            "atk": 0,
+            "def": 200,
+            "spa": 0,
+            "spd": 0,
+            "spe": 60
+        },
+        "ivs": {
+            "hp": 31,
+            "atk": 30,
+            "def": 30,
+            "spa": 31,
+            "spd": 31,
+            "spe": 31
+        }
+    },
+    {
+        "level": 80,
+        "name": "Magearna",
+        "species": "Magearna",
+        "item": "assaultvest",
+        "ability": "Soul-Heart",
+        "moves": [
+            "fleurcannon",
+            "ironhead",
+            "hiddenpowerfire",
+            "voltswitch"
+        ],
+        "nature": "Sassy",
+        "evs": {
+            "hp": 248,
+            "atk": 0,
+            "def": 52,
+            "spa": 0,
+            "spd": 208,
+            "spe": 0
+        },
+        "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 20
+        }
+    }
+]

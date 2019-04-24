@@ -1,0 +1,182 @@
+[
+    {
+        "level": 80,
+        "name": "Marowak-Alola",
+        "species": "Marowak-Alola",
+        "item": "thickclub",
+        "ability": "Rock Head",
+        "moves": [
+            "shadowbone",
+            "flareblitz",
+            "swordsdance",
+            "bonemerang"
+        ],
+        "nature": "Adamant",
+        "evs": {
+            "hp": 248,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 8,
+            "spe": 0
+        },
+        "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 0
+        }
+    },
+    {
+        "level": 80,
+        "name": "Cresselia",
+        "species": "Cresselia",
+        "item": "mentalherb",
+        "ability": "Levitate",
+        "moves": [
+            "trickroom",
+            "icebeam",
+            "moonlight",
+            "lunardance"
+        ],
+        "nature": "Relaxed",
+        "evs": {
+            "hp": 248,
+            "atk": 0,
+            "def": 252,
+            "spa": 0,
+            "spd": 8,
+            "spe": 0
+        },
+        "ivs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 0
+        }
+    },
+    {
+        "level": 80,
+        "name": "Mawile",
+        "species": "Mawile",
+        "item": "mawilite",
+        "ability": "Hyper Cutter",
+        "moves": [
+            "playrough",
+            "suckerpunch",
+            "thunderpunch",
+            "firefang"
+        ],
+        "nature": "Adamant",
+        "evs": {
+            "hp": 248,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 8,
+            "spe": 0
+        },
+        "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 0
+        }
+    },
+    {
+        "level": 80,
+        "name": "Uxie",
+        "species": "Uxie",
+        "item": "mentalherb",
+        "ability": "Levitate",
+        "moves": [
+            "trickroom",
+            "stealthrock",
+            "memento",
+            "magiccoat"
+        ],
+        "nature": "Bold",
+        "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 116,
+            "spa": 0,
+            "spd": 140,
+            "spe": 0
+        },
+        "ivs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 0
+        }
+    },
+    {
+        "level": 80,
+        "name": "Crawdaunt",
+        "species": "Crawdaunt",
+        "item": "lifeorb",
+        "ability": "Adaptability",
+        "moves": [
+            "knockoff",
+            "crabhammer",
+            "aquajet",
+            "swordsdance"
+        ],
+        "nature": "Adamant",
+        "evs": {
+            "hp": 252,
+            "atk": 252,
+            "def": 0,
+            "spa": 0,
+            "spd": 4,
+            "spe": 0
+        },
+        "ivs": {
+            "hp": 31,
+            "atk": 31,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 0
+        }
+    },
+    {
+        "level": 80,
+        "name": "Magearna",
+        "species": "Magearna",
+        "item": "fairiumz",
+        "ability": "Soul-Heart",
+        "moves": [
+            "trickroom",
+            "fleurcannon",
+            "focusblast",
+            "thunderbolt"
+        ],
+        "nature": "Quiet",
+        "evs": {
+            "hp": 252,
+            "atk": 0,
+            "def": 0,
+            "spa": 252,
+            "spd": 4,
+            "spe": 0
+        },
+        "ivs": {
+            "hp": 31,
+            "atk": 0,
+            "def": 31,
+            "spa": 31,
+            "spd": 31,
+            "spe": 0
+        }
+    }
+]
