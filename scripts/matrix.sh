@@ -15,6 +15,6 @@ export PS_USERNAME=abut-shipful-$i-$j
 export BOT_MODE=SEARCH_LADDER
 export POKEMON_MODE=gen7ouc${i}v${j}
 export TEAM_NAME=$loadout
-export RUN_COUNT=200
+export RUN_COUNT=1000
 
 python run.py
